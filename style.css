@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+     background-color: rgba(137, 233, 13, 0.473);
+}
+
+h1 {
+    color: blue;
+    font-size :45px;
+}
+li {
+    color: rgb(255, 8, 8);
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
